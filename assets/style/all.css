@@ -1164,8 +1164,6 @@ h2 {
       display: -ms-flexbox;
       display: flex;
       height: 144px;
-      max-width: 375px;
-      margin: 0 auto;
       margin-bottom: 24px; } }
 
 .product_series {
